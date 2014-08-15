@@ -39,6 +39,7 @@
                                     <include>com.codelanx:codelanxlib</include>
                                 </includes>
                             </artifactSet>
+                            <minimizeJar>true</minimizeJar>
                         </configuration>
                     </execution>
                 </executions>
